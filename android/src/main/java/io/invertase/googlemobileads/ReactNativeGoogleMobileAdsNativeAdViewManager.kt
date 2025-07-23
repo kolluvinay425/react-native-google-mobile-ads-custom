@@ -34,6 +34,7 @@ class ReactNativeGoogleMobileAdsNativeAdViewManager :
     reactContext: ThemedReactContext,
     view: ReactNativeGoogleMobileAdsNativeAdView
   ): ReactNativeGoogleMobileAdsNativeAdView? {
+    // Return null to skip view recycling
     return null
   }
 
