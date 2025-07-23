@@ -1,5 +1,5 @@
 package io.invertase.googlemobileads
-
+import io.invertase.googlemobileads.ReactNativeGoogleMobileAdsNativeAdViewManager
 /*
  * Copyright (c) 2016-present Invertase Limited & Contributors
  *
